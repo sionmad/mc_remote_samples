@@ -10,7 +10,7 @@ PLAYER_NAME = "Lovin_Han"  # set your player name in Minecraft
 PLAYER_ORIGIN = Vec3(2123, 93, 1908)  # PO.x, PO.y, PO.z
 print(f"param_mc_remote loaded for {PLAYER_NAME} at {PLAYER_ORIGIN.x}, {PLAYER_ORIGIN.y}, {PLAYER_ORIGIN.z}")
 
-# minecraft remote connection to the host at address:port
+# minecraft remote connection to the host at address:port a
 # ADRS_MCR = "localhost"  # Minecraft server running on your pc
 ADRS_MCR = "mc-remote.xgames.jp"  # mc-remote sandbox server
 PORT_MCR = 25575  # socket server port
