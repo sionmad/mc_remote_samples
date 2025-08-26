@@ -8,4 +8,4 @@ mc = Minecraft.create(address=param.ADRS_MCR, port=param.PORT_MCR)
 mc.setPlayer(param.PLAYER_NAME, PO.x, PO.y, PO.z)
 
 mc.postToChat("Hello, to every person in the server!!! My name is Lovin_Han!!!")
-mc.setBlock(5, 68, 5, block.DIAMOND_BLOCK)
+mc.setBlock(2000, 100, 2000, block.DIAMOND_BLOCK)
